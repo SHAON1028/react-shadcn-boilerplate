@@ -4,8 +4,8 @@ import { Button } from './components/ui/button';
 function App() {
 
   return (
-    <div className='conatiner p-10'>
-      <Button className='cursor-pointer'>Click me</Button>
+    <div className="container">
+      <Button className="cursor-pointer">Click me</Button>
     </div>
   );
 }

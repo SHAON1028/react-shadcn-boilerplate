@@ -99,3 +99,9 @@
     @apply font-sans antialiased bg-background text-foreground;
   }
 }
+
+
+
+.container{
+  padding:0 min(5em,8%) !important
+}
